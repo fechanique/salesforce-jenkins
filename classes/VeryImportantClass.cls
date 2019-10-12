@@ -8,7 +8,7 @@ public class VeryImportantClass {
             dataList.add(i);
         }
         
-        return dataList[2000];
+        return dataList[500];
     }
     
 }
