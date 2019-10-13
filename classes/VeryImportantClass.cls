@@ -18,6 +18,10 @@ public class VeryImportantClass {
         return dataList[500];
     }
 
+    /**
+     * @description Checks an array
+     * @return Integer
+     */
     public static Integer veryImportantMethod2(){
         String data = '';
         List<Integer> dataList = new List<Integer>();
