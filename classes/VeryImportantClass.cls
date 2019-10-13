@@ -17,5 +17,16 @@ public class VeryImportantClass {
         
         return dataList[500];
     }
+
+    public static Integer veryImportantMethod2(){
+        String data = '';
+        List<Integer> dataList = new List<Integer>();
+        
+        for(Integer i=0 ; i<1000 ; i++){
+            dataList.add(i);
+        }
+        
+        return dataList[500];
+    }
     
 }
